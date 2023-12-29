@@ -2,7 +2,7 @@
   
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my 1st year master python project
+- 🔭 I’m currently working on get_next_line project at 42
 - 🌱 I’m currently learning C and Python
 
 - 📫 How to reach me: https://www.linkedin.com/feed/
