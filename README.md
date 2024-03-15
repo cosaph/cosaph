@@ -2,8 +2,8 @@
   
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on get_next_line project at 42
-- 🌱 I’m currently learning C and Python
+- 🔭 I’m currently working on FRACT-OL project at 42
+- 🌱 I’m currently learning C, Python and Java
 
 - 📫 How to reach me: www.linkedin.com/in/ccottet
 - 😄 Pronouns: she/her
